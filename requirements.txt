@@ -1,0 +1,37 @@
+```
+# Core Python Libraries
+numpy
+requests
+typing
+
+# Web Scraping
+beautifulsoup4
+newspaper3k
+lxml
+
+# Machine Learning and NLP
+transformers
+huggingface_hub
+sentence-transformers
+faiss-cpu
+
+# AI and Language Models
+google-generativeai
+
+# Web Framework
+streamlit
+
+# Utility and Configuration
+python-dotenv
+rich
+loguru
+
+# Data Handling
+pandas
+
+# Optional: For advanced text processing
+nltk
+
+# Logging and Debugging
+traceback
+```
